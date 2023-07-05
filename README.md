@@ -1,7 +1,7 @@
 # Chatapp
 Social network app using React, Typescript, MongoDB, Redis, Queues, AWS, Terraform, CircleCI &amp; more
 
-Transforming what initially appeared to be a straightforward concept into a fully-fledged application has proven to be a more complex and rigorous journey than anticipated. This project is currently a work in progress, and I aim to have it completed by the end of the summer. Below is a non-exhaustive list of the technology stack that I will be utilizing to bring this project to fruition. 
+Transforming what initially appeared to be a straightforward concept into a fully-fledged application has proven to be a more complex and rigorous journey than anticipated. This project is currently a work in progress. Below is a non-exhaustive list of the technology stack that I will be utilizing to bring this project to fruition. 
 
 What Technology i'm using. 
 
